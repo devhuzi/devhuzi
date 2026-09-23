@@ -6,7 +6,7 @@ I build AI agent systems that do real work, and the production apps around them.
 
 Open to full-stack, software and AI automation roles in Australia and New Zealand.
 
-[Portfolio](https://huzaifaumer.com) · [Résumé (PDF)](https://huzaifaumer.com/assets/Huzaifa-Umer-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-umer-aab81484) · hello@huzaifaumer.com
+[Portfolio](https://huzaifaumer.com) · [Résumé (PDF)](https://huzaifaumer.com/assets/Huzaifa-Umer-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/huzaifaumer) · hello@huzaifaumer.com
 
 ---
 
